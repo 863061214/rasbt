@@ -7,7 +7,7 @@ Research in **AI in Education**, **Educational Data Mining**, **Educational Data
 - ⚡️ The projects are shown below!
 
 <div align="center">
-<a href="https://bopei.github.io/Homepage/projects.html#scientific_reasoning"> <img src="figures/project1.png" alt="Sebastian's Books" height="160px"></a>
+<a href="https://bopei.github.io/Homepage/projects.html#scientific_reasoning"> <img src="figures/project1.png" alt="Sebastian's Books" height="240px"></a>
 
 (Links and more info [here](https://bopei.github.io/Homepage/projects.html#scientific_reasoning).)
 </div>
@@ -16,9 +16,9 @@ Research in **AI in Education**, **Educational Data Mining**, **Educational Data
 
 If you are interested in more details, check out [my website](https://bopei.github.io/Homepage/index.html#aboutUs) !  
 
-#### Socials
+#### Academic
 
-I am also more active on social platforms than I should be!
+You can learn more about the scope of my research area through the following ways
 
 - 📝 [ResearchGate](https://www.researchgate.net/profile/Bo-Pei)
 - 👨‍💻 [Google Scholar Profile](https://scholar.google.com/citations?user=Fp3FyvsAAAAJ&hl=en&oi=ao)
