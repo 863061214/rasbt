@@ -7,7 +7,7 @@ Research in **AI in Education**, **Educational Data Mining**, **Educational Data
 - 📖 The projects are shown below!
 
 <div align="center">
-<a href="https://bopei.github.io/Homepage/projects.html#scientific_reasoning"> <img src="project1.png" alt="Sebastian's Books" height="160px"></a>
+<a href="https://bopei.github.io/Homepage/projects.html#scientific_reasoning"> <img src="figure/project1.png" alt="Sebastian's Books" height="160px"></a>
 
 (Links and more info [here](https://bopei.github.io/Homepage/projects.html#scientific_reasoning).)
 </div>
