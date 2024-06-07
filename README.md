@@ -20,9 +20,9 @@ If you are interested in more details, check out [my website](https://bopei.gith
 
 I am also more active on social platforms than I should be!
 
-- 📝 Substack Blog [Ahead of AI](https://magazine.sebastianraschka.com)
-- 👨‍💻 Twitter [(@rasbt)](https://twitter.com/rasbt)
-- 🖇️ LinkedIn [in/sebastianraschka](https://www.linkedin.com/in/sebastianraschka/)
+- 📝 [ResearchGate](https://www.researchgate.net/profile/Bo-Pei)
+- 👨‍💻 [Google Scholar Profile](https://scholar.google.com/citations?user=Fp3FyvsAAAAJ&hl=en&oi=ao)
+- 🖇️ Email: bpei@usf.edu
 
 
 
